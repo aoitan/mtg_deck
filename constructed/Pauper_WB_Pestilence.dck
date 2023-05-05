@@ -1,0 +1,35 @@
+[metadata]
+Name=Pauper_WB_Pestilence
+[Main]
+3 Bojuka Bog|C19
+2 Castigate|GPT
+4 Chainer's Edict|VMA
+2 Dead Weight|GRN
+1 Diabolic Edict|MH1
+2 Disfigure|A25
+2 Doom Blade|M12
+2 Duress|M20
+1 Evincar's Justice|TMP
+4 Guardian of the Guildpact|DIS
+1 Kabira Crossroads|C17
+4 Night's Whisper|EMA
+4 Orzhov Basilica|GK2
+4 Pestilence|4ED
+1 Plains|THB|1
+4 Pristine Talisman|CM2
+2 Radiant Fountain|IMA
+2 Read the Bones|C17
+4 Scoured Barrens|M20
+1 Snuff Out|MMQ
+8 Swamp|THB|1
+2 Thorn of the Black Rose|CN2
+[Sideboard]
+2 Castigate|GPT
+2 Circle of Protection: Blue|4ED
+1 Circle of Protection: Red|4ED
+2 Duress|M20
+1 Evincar's Justice|TMP
+3 Fragmentize|KLD
+1 Ill-Gotten Inheritance|RNA
+2 Relic of Progenitus|HOP
+1 Shrivel|MM2

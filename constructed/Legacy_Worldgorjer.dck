@@ -1,0 +1,29 @@
+[metadata]
+Name=Legacy_Worldgorjer
+[Main]
+4 Badlands|3ED
+3 Bayou|3ED
+4 Bloodstained Mire|KTK
+4 Buried Alive|WTH
+4 Dance of the Dead|ICE
+4 Dark Ritual|A25
+1 Draining Whelk|TSP
+4 Entomb|ODY
+3 Faithless Looting|DKA
+4 Gemstone Mine|WTH
+2 Lotus Petal|TMP
+3 Mausoleum Secrets|GRN
+4 Necromancy|VIS
+4 Polluted Delta|KTK
+4 Swamp|BFZ|3
+1 Underground Sea|3ED
+4 Walking Ballista|AER
+1 Woodfall Primus|UMA
+2 Worldgorger Dragon|JUD
+[Sideboard]
+3 Draining Whelk|TSP
+4 Duress|M19
+1 Faithless Looting|DKA
+1 Mausoleum Secrets|GRN
+4 Thoughtseize|IMA
+2 Woodfall Primus|UMA

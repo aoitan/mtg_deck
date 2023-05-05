@@ -1,0 +1,32 @@
+[metadata]
+Name=Legacy_Mono-Green_Aggro
+[Main]
+1 Bane of Progress|CC1
+4 Carnage Tyrant|XLN
+1 Cloudthresher|LRW
+1 Elder Gargaroth|M21|2
+1 Elderscale Wurm|M13
+2 Elvish Mystic|M14
+20 Forest|M21|1
+3 Fyndhorn Elves|ICE
+4 Hexdrinker|MH1
+3 Llanowar Elves|M19
+2 Natural Order|EMA
+3 Once Upon a Time|ELD|1
+2 Priest of Titania|USG
+1 Questing Beast|ELD|1
+3 Rhonas the Indomitable|AKR
+3 Rofellos, Llanowar Emissary|UDS
+3 Steel Leaf Champion|DOM
+1 The Great Henge|ELD|1
+1 Thrun, the Last Troll|MBS
+1 Worldspine Wurm|RTR
+[Sideboard]
+1 Collector Ouphe|MH1
+3 Damping Sphere|DOM
+1 Force of Vigor|MH1
+2 Krosan Grip|C15
+2 Prey Upon|GRN
+1 Sandwurm Convergence|AKR
+2 Tormod's Crypt|M21
+3 Veil of Summer|M20

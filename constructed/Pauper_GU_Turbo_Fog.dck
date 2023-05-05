@@ -1,0 +1,29 @@
+[metadata]
+Name=Pauper_GU_Turbo_Fog
+[Main]
+1 Abundant Growth|EMA
+4 Accumulated Knowledge|A25
+4 Arcane Denial|ALL|1
+4 Brainstorm|COM
+3 Evolving Wilds|C19
+4 Fog|EMA
+2 Forest|ZEN|3
+6 Island|BFZ|5
+4 Jace's Erasure|M12
+4 Moment's Peace|ODY
+3 Muddle the Mixture|RAV
+4 Ponder|C18
+1 Quiet Disrepair|FUT
+1 Reclaim|ORI
+2 Seat of the Synod|C18
+4 Tangle|VMA
+3 Terramorphic Expanse|C19
+2 Thornwood Falls|ELD
+4 Words of Wisdom|ODY
+[Sideboard]
+4 Dispel|BFZ
+2 Hydroblast|ICE
+2 Quiet Disrepair|FUT
+2 Relic of Progenitus|ALA
+1 Rofellos's Gift|UDS
+4 Scattershot Archer|CFX

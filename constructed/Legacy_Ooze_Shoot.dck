@@ -1,0 +1,34 @@
+[metadata]
+Name=Legacy_Ooze_Shoot
+[Main]
+4 Bayou|3ED
+2 Biogenic Ooze|RNA
+4 Cabal Therapy|EMA
+4 Devoted Druid|UMA
+3 Entomb|UMA
+4 Forest|BFZ|1
+1 Genesis|MH1
+3 Green Sun's Zenith|EMA
+1 Grim Poppet|SHM
+2 Liliana, the Last Hope|EMN
+4 Necrotic Ooze|SOM
+3 Pernicious Deed|A25
+1 Phyrexian Devourer|ALL
+1 Phyrexian Tower|UMA
+1 Polluted Delta|KTK
+2 Scavenging Ooze|CM2
+3 Swamp|BFZ|4
+4 Thoughtseize|IMA
+4 Verdant Catacombs|MM3
+3 Veteran Explorer|BBD
+4 Walking Ballista|AER
+2 Wooded Foothills|KTK
+[Sideboard]
+3 Choke|TMP
+2 Diabolic Edict|TPR
+1 Kitchen Finks|UMA
+2 Phyrexian Revoker|M15
+2 Surgical Extraction|MM2
+2 Tormod's Crypt|C14
+2 Toxic Deluge|EMA
+1 Wickerbough Elder|UMA

@@ -1,0 +1,28 @@
+[metadata]
+Name=Pauper_WBG_Enchantress
+[Main]
+4 Abundant Growth|EMA
+2 Ancestral Mask|MMQ
+4 Blossoming Sands|C19
+4 Crystallization|ARB
+3 Custodi Squire|CNS
+1 Font of Return|JOU
+10 Forest|BFZ|1
+4 Journey to Nowhere|COM
+3 Jungle Hollow|C19
+4 Kruphix's Insight|JOU
+3 Rofellos's Gift|UDS
+2 Seal of Doom|C15
+4 Skyshroud Sentinel|NMS
+4 Utopia Sprawl|DIS
+4 Vessel of Nascency|A25
+4 Wild Growth|ICE
+[Sideboard]
+1 Circle of Protection: Blue|ICE
+1 Circle of Protection: Green|ICE
+2 Circle of Protection: Red|ICE
+4 Curse of the Bloody Tome|ISD
+3 Hidden Spider|USG
+1 Night Soil|FEM|2
+1 Rofellos's Gift|UDS
+2 Seal of Primordium|MM3

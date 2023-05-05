@@ -1,0 +1,32 @@
+[metadata]
+Name=Pauper_UB-Delver-Go
+[Main]
+1 Ash Barrens|C16
+4 Augur of Bolas|MM3
+4 Brainstorm|VMA
+4 Counterspell|A25
+4 Daze|NMS
+4 Delver of Secrets|ISD
+2 Disfigure|A25
+2 Echoing Decay|DST
+4 Evolving Wilds|RIX
+1 Ghastly Demise|ODY
+3 Gitaxian Probe|NPH
+4 Gurmag Angler|FRF
+2 Gush|MMQ
+8 Island|BFZ|1
+4 Preordain|M11
+2 Snuff Out|MMQ
+1 Spell Pierce|XLN
+2 Swamp|BFZ|3
+2 Terramorphic Expanse|MMA
+2 Thought Scour|IMA
+[Sideboard]
+2 Annul|THS
+1 Diabolic Edict|A25
+1 Dispel|BFZ
+1 Echoing Truth|MMA
+4 Hydroblast|ICE
+2 Relic of Progenitus|ALA
+2 Shrivel|MM2
+2 Stormbound Geist|DKA

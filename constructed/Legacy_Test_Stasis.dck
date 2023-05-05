@@ -1,0 +1,33 @@
+[metadata]
+Name=Legacy_Test_Stasis
+[Main]
+4 Birds of Paradise|4ED
+4 Brainstorm|ICE
+4 Canopy Vista|BFZ
+4 Counterspell|4ED
+4 Daze|NMS
+1 Forest|BFZ|1
+1 Garruk Wildspeaker|DDD
+3 Garruk Wildspeaker|M11
+4 Island|BFZ|1
+1 Plains|BFZ|4
+4 Prairie Stream|BFZ
+4 Preordain|C15
+4 Quirion Ranger|VIS
+1 Snow-Covered Forest|MH1
+4 Snow-Covered Island|MH1
+1 Snow-Covered Plains|MH1
+4 Stasis|4ED
+3 Swords to Plowshares|4ED
+1 Swords to Plowshares|ICE
+4 Tropical Island|3ED
+[Sideboard]
+1 As Foretold|AKH
+2 Enlightened Tutor|MIR
+1 Force of Negation|MH1
+1 Humility|TMP
+1 Kismet|4ED
+3 Narset, Parter of Veils|WAR
+2 Teferi, Hero of Dominaria|DOM
+3 Terminus|C18
+1 Wilderness Reclamation|RNA

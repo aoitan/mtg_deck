@@ -1,0 +1,30 @@
+[metadata]
+Name=Pioneer_UR_Paradox_Storm
+[Main]
+1 Aetherflux Reservoir|KLD
+2 Alchemist's Vial|ORI
+3 Commit // Memory|AKH
+3 Emry, Lurker of the Loch|ELD
+4 Inspiring Statuary|AER
+1 Inventors' Fair|KLD
+6 Island|BFZ|1
+1 Mountain|BFZ|1
+3 Mox Amber|DOM
+3 Navigator's Compass|DOM
+1 Nephalia Academy|EMN
+3 Ornithopter|AER
+4 Paradoxical Outcome|KLD
+4 Pithing Needle|RTR
+4 Radiant Fountain|M15
+4 Renegade Map|AER
+3 Sai, Master Thopterist|M19
+2 Springleaf Drum|BNG
+4 Witching Well|ELD
+4 Zhalfirin Void|DOM
+[Sideboard]
+4 Elder Deep-Fiend|EMN
+1 Ghirapur Aether Grid|ORI
+4 Glint-Nest Crane|KLD
+1 Hope of Ghirapur|AER
+4 Kozilek's Return|OGW
+1 Metallic Rebuke|AER

@@ -1,0 +1,28 @@
+[metadata]
+Name=Pioneer_Mono-Blue_Storm
+[Main]
+2 Aetherflux Reservoir|KLD
+3 Commit // Memory|AKH
+4 Inspiring Statuary|AER
+1 Inventors' Fair|KLD
+4 Island|BFZ|1
+1 Metallic Rebuke|AER
+3 Mox Amber|DOM
+4 Navigator's Compass|DOM
+4 Nephalia Academy|EMN
+3 Ornithopter|AER
+4 Paradoxical Outcome|KLD
+4 Pithing Needle|RTR
+4 Radiant Fountain|IMA
+4 Renegade Map|AER
+4 Sai, Master Thopterist|M19
+2 Springleaf Drum|BNG
+1 Warping Wail|OGW
+4 Witching Well|ELD
+4 Zhalfirin Void|DOM
+[Sideboard]
+4 Flame Sweep|M20
+4 Lava Coil|GRN
+2 Metallic Rebuke|AER
+1 Mountain|BFZ|1
+4 Shivan Fire|DOM

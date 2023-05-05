@@ -1,0 +1,29 @@
+[metadata]
+Name=Pioneer_Leylines
+[Main]
+2 Clifftop Retreat|DOM
+4 Glacial Fortress|XLN
+2 Godless Shrine|RNA
+4 Hallowed Fountain|RNA
+1 Island|BFZ|1
+2 Isolated Chapel|DOM
+1 Ixalan's Binding|XLN
+4 Leyline of Anticipation|M20
+4 Leyline of Combustion|M20
+4 Leyline of Sanctity|M20
+4 Leyline of the Void|M20
+4 Nykthos, Shrine to Nyx|THS
+2 Opt|DOM
+3 Plains|BFZ|4
+2 Prison Realm|WAR
+2 Sacred Foundry|GRN
+2 Seal Away|DOM
+4 Search for Azcanta|XLN
+4 Starfield Mystic|M20
+4 Starfield of Nyx|ORI
+1 Thopter Arrest|AER
+[Sideboard]
+3 Ixalan's Binding|XLN
+2 Prison Realm|WAR
+4 Stasis Snare|BFZ
+3 Thopter Arrest|AER

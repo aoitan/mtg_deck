@@ -1,0 +1,30 @@
+[metadata]
+Name=ZNR-STD_UG_Ramp
+[Main]
+3 Beanstalk Giant|ELD|2
+2 Castle Vantress|ELD|1
+1 Crawling Barrens|ZNR|2
+3 Essence Scatter|IKO
+2 Fabled Passage|M21|1
+9 Forest|ZNR|2
+4 Frantic Inventory|M21|1
+7 Island|ZNR|3
+1 Jwari Disruption|ZNR
+1 Kiora Bests the Sea God|THB
+3 Midnight Clock|ELD|1
+3 Omen of the Hunt|THB
+2 Scavenging Ooze|M21|1
+4 Shark Typhoon|IKO|1
+2 Silundi Vision|ZNR
+4 Solemn Simulacrum|M12
+3 Sublime Epiphany|M21|1
+4 Temple of Mystery|M20
+2 Ugin, the Spirit Dragon|FRF
+[Sideboard]
+2 Lovestruck Beast|ELD|1
+3 Mystical Dispute|ELD
+2 Negate|ZNR
+2 Return to Nature|ELD
+3 Soul-Guide Lantern|THB
+2 Tormod's Crypt|M21
+1 Ugin, the Spirit Dragon|FRF

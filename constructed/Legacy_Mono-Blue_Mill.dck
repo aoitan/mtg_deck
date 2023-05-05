@@ -1,0 +1,21 @@
+[metadata]
+Name=Legacy_Mono-Blue_Mill
+[Main]
+4 Brainstorm|A25
+2 Bruvac the Grandiloquent|JMP
+4 Counterspell|A25
+4 Daze|NMS
+4 Fraying Sanity|HOU
+4 Hedron Crab|ZEN
+20 Island|THB|1
+4 Manic Scribe|SOI
+4 Mesmeric Orb|MRD
+2 Mystic Sanctuary|ELD
+2 Negate|M20
+2 Patient Rebuilding|M19
+4 Sphinx's Tutelage|ORI
+[Sideboard]
+4 Blink of an Eye|DOM
+4 Entrancing Melody|XLN
+3 River's Rebuke|GN2
+4 Syncopate|MB1

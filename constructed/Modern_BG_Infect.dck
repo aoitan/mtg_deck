@@ -1,0 +1,32 @@
+[metadata]
+Name=Modern_BG_Infect
+[Main]
+2 Become Immense|KTK
+4 Blooming Marsh|KLD
+1 Dismember|NPH
+2 Fatal Push|AER
+2 Forest|BFZ|1
+4 Glistener Elf|NPH
+4 Inkmoth Nexus|MBS
+4 Inquisition of Kozilek|ROE
+4 Might of Old Krosa|TSP
+4 Mutagenic Growth|NPH
+2 Overgrown Tomb|GRN
+1 Pendelhaven|A25
+4 Phyrexian Crusader|MBS
+4 Plague Stinger|SOM
+3 Rancor|DDD
+3 Scale Up|MH1
+1 Swamp|BFZ|4
+4 Verdant Catacombs|MM3
+4 Vines of Vastwood|MM2
+3 Windswept Heath|KTK
+[Sideboard]
+3 Abrupt Decay|GK1
+1 Collective Brutality|EMN
+1 Disfigure|DDR
+2 Fatal Push|AER
+2 Force of Vigor|MH1
+1 Krosan Grip|C15
+1 Pulse of Murasa|UMA
+4 Thoughtseize|IMA

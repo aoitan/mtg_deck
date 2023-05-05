@@ -1,0 +1,25 @@
+[metadata]
+Name=Pioneer_Narset_Lock
+[Main]
+4 Cast Down|DOM
+2 Castle Vantress|ELD
+4 Dark Deal|FRF
+4 Day's Undoing|ORI
+4 Doom Blade|IMA
+4 Drowned Catacomb|XLN
+3 Geier Reach Sanitarium|C19
+3 Island|BFZ|1
+1 Languish|GNT
+4 Narset, Parter of Veils|WAR
+4 Notion Thief|A25
+4 Opt|DOM
+3 Ritual of Soot|GRN
+4 Swamp|BFZ|4
+4 Temple of Deceit|THS
+4 Thoughtseize|IMA
+4 Watery Grave|GRN
+[Sideboard]
+4 Leyline of the Void|M20
+4 Negate|M20
+4 Sorcerous Spyglass|XLN
+3 Spell Pierce|XLN

@@ -1,0 +1,35 @@
+[metadata]
+Name=WAR-STD_WUB_Emergency_Naeset
+[Main]
+3 Absorb|RNA
+3 Cast Down|DOM
+2 Chemister's Insight|GRN
+2 Cry of the Carnarium|RNA
+4 Drowned Catacomb|XLN
+1 Emergency Powers|RNA
+4 Glacial Fortress|XLN
+3 Godless Shrine|RNA
+3 Hallowed Fountain|RNA
+1 Island|BFZ|1
+4 Isolated Chapel|DOM
+3 Kaya's Wrath|RNA
+1 Kaya, Orzhov Usurper|RNA
+3 Mastermind's Acquisition|RIX
+3 Mortify|RNA
+3 Narset, Parter of Veils|WAR
+3 Search for Azcanta|XLN
+2 Swamp|BFZ|3
+2 Teferi, Hero of Dominaria|DOM
+2 Teferi, Time Raveler|WAR
+3 Thought Erasure|GRN
+2 Vraska's Contempt|XLN
+3 Watery Grave|GRN
+[Sideboard]
+3 Ashiok, Dream Render|WAR
+1 Chromium, the Mutable|M19
+1 Cry of the Carnarium|RNA
+2 Emergency Powers|RNA
+1 Lyra Dawnbringer|DOM
+4 Negate|RIX
+1 Nezahal, Primal Tide|RIX
+2 Unmoored Ego|GRN

@@ -1,0 +1,32 @@
+[metadata]
+Name=Legacy_Ooze_Shoot_Real
+[Main]
+2 Ashiok, Dream Render|WAR
+2 Biogenic Ooze|RNA
+4 Cabal Therapy|EMA
+4 Devoted Druid|UMA
+3 Entomb|UMA
+5 Forest|BFZ|1
+1 Genesis|MH1
+3 Green Sun's Zenith|EMA
+1 Grim Poppet|SHM
+4 Inquisition of Kozilek|ROE
+4 Necrotic Ooze|SOM
+4 Overgrown Tomb|GRN
+3 Pernicious Deed|A25
+1 Phyrexian Devourer|ALL
+1 Phyrexian Tower|UMA
+2 Scavenging Ooze|CM2
+5 Swamp|BFZ|4
+3 Veteran Explorer|BBD
+4 Walking Ballista|AER
+4 Woodland Cemetery|DOM
+[Sideboard]
+3 Choke|TMP
+2 Diabolic Edict|MH1
+1 Kitchen Finks|UMA
+2 Phyrexian Revoker|M15
+2 Surgical Extraction|MM2
+2 Tormod's Crypt|C14
+2 Toxic Deluge|EMA
+1 Wickerbough Elder|UMA

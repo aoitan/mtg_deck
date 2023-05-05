@@ -1,0 +1,26 @@
+[metadata]
+Name=M20-STD_UR_Wizard
+[Main]
+4 Augur of Bolas|WAR
+4 Ghitu Lavarunner|DOM
+4 Goblin Chainwhirler|DOM
+4 God-Eternal Kefnet|WAR
+1 Island|BFZ|1
+4 Lava Coil|GRN
+4 Light Up the Stage|RNA
+4 Lightning Stormkin|M20
+4 Lightning Strike|M19
+7 Mountain|BFZ|4
+4 Shock|M20
+4 Steam Vents|GRN
+4 Sulfur Falls|DOM
+4 Temple of Epiphany|M20
+4 Wizard's Lightning|DOM
+[Sideboard]
+2 Aether Gust|M20
+1 Beacon Bolt|GRN
+1 Chandra, Acolyte of Flame|M20
+2 Disdainful Stroke|GRN
+4 Ionize|GRN
+2 Ral, Izzet Viceroy|GRN
+3 Risk Factor|GRN
